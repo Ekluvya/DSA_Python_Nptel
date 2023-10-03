@@ -8,7 +8,8 @@ This is the Github Repository for code taught during the course of this MOOC.
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-khare-137759201/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-khare-137759201/) 
+[![alt text](https://img.shields.io/badge/NPTEL-Link-CC0000?style=for-the-badge)](https://nptel.ac.in/courses/106106145)
 
 
 
